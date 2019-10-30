@@ -1,6 +1,6 @@
-## Your Name
+## Kevin Hanna
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+My love of technology began as an enthusiastic 6 year old watching my grandfather build computers for friends and family in his shed. I've been engrossed ever since; working in the IT industry for 10 years before deciding to change my life by moving to the other side of the planet to become a software developer.
 
 ## Skills
 
