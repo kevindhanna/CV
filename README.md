@@ -68,8 +68,8 @@ Support analyst
 **Pitcher Partners** _(July 2016 to Dec 2018)_
 *Technology Officer*  
 - Managed projects such as:
-  - deploy new workstations to all staff
-  - upgrade to Windows 10 firmwide
+  - deploy new workstations to all staff and upgrade to Windows 10 firmwide
+  - Firm Office Move - managed the move of Workstations, Servers, Storage, Network and Internet.
   - Migrate 1.5 million documents to a new Document Managment System
 - Oversee maintenance of IT Infrastructure, including software updates, backups and lifecycle
 - Manage external relationships with Vendors, stakeholders and service providers
