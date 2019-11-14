@@ -77,6 +77,6 @@ Support analyst
 
 # Hobbies
 
-- I've played in bands since I was 17, so I love anything music related. This invloves recording and producing my bands music - I've spent many hours learning how to make audio sound good.  
+- I've played in bands since I was 17, so I love anything and everything music. This invloves recording and producing my bands music - I've spent many hours learning how to make audio sound good.  
 - Snowboarding, when funds permit
 - I used to brew beer, but haven't found room to do it here in London so I've had to settle for trying every craft brew I can get my hands on.
