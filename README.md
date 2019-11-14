@@ -31,7 +31,7 @@ I took any chance I could to automate repetitive tasks - usually with simple Win
 #### Problem Solving
 
 I have 10 years of IT systems administration and support under my belt, which has helped me create mental models of systems and their interactions, allowing me to quickly formulate troubleshooting steps and testing processes. I have found these skills invaluable when TDDing and debugging software.  
-I've also found I actually _thoroughly enjoy_ problem solving and debugging because of this skill set - a bug isn't an annoyance, it's an opportunity for fun!
+I've also found I actually _thoroughly enjoy_ problem solving and debugging because of this skill set - a bug isn't an annoyance, it's an opportunity to get to know more about a system!
 
 #### Project Management
 
