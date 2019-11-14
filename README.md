@@ -17,9 +17,9 @@
 
 My love of technology began as an enthusiastic 6 year old watching my grandfather build computers for friends and family in his shed. I've been engrossed ever since; working in the IT industry for 10 years before deciding to change my life by moving to the other side of the planet to become a software developer.
 
-My career began in IT Support, helping teachers and kids at a couple of small town primary schools keep their technology in order. Over the next few years I moved into Infrastructure and System Administration for a large mining company, IT Managed Services and eventually IT Management for a mid size enterprise - a role that included strategy formulation, vendor management and project management.
+My career in IT started right after highschool helping teachers and kids at a couple of small town primary schools keep their technology in order. Over the next few years I moved into Infrastructure and System Administration, IT Managed Services and eventually IT Management for a mid size enterprise - a role that included strategy formulation, vendor management and project management.
 
-I took any chance I could to automate repetitive tasks - usually with simple Windows commandline scripts, but eventually more complex Powershell scripts. At one business I managed to turn a 1 hour user creation process into a 5 second script that could create multiple users at once in multiple systems. This slow foray into coding showed me how satisfying and exciting it is to build a thing and then _see it actually work!_ Being a young professional looking to change my career, Makers was an obvious choice.
+I took any chance I could to automate repetitive tasks - usually with simple Windows cmd scripts, but eventually more complex Powershell scripts. At one business I managed to turn a 1 hour user creation process into a 5 second script that could create multiple users at once in multiple systems. This minor foray into coding showed me how satisfying and exciting it is to build a thing and then _see it actually work!_ Being a young professional looking to change my career, moving to London and attending Makers was an obvious choice.
 
 # Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
