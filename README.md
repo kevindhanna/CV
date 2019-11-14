@@ -24,7 +24,7 @@ I took any chance I could to automate repetitive tasks - usually with simple Win
 # Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
-| [Kevstagram](https://kevstagram.herokuapp.com/sign_up) | Kevstagram was made for the last weekend challenge at Makers - clone a popular social network. The previous week had us working with CI and Heroku, so I chose to use these technologies to help me build this project. This was also my first foray into the world of React - which ended up being great fun! | A Weekeend | Rails API backend, React front end, Travis CI, Heroku PaaS | RSpec for Rails, Cypress for E2E / Feature testing |
+| [Kevstagram](https://kevstagram.herokuapp.com/sign_up) | Kevstagram was made for the last weekend challenge at Makers - clone a popular social network. The previous week had us working with CI and Heroku, so I chose to use these technologies to help me build this project. This was also my first foray into the world of React - which ended up being great fun! | A Weekeend | Rails API backend, React front end, Postgres database |  Travis CI, Heroku PaaS, RSpec for Ruby testing, Rubocop for ruby linting, Cypress for E2E / Feature testing, ESLint for Javascript linting |
 
 # Skills
 
