@@ -45,12 +45,12 @@ In my past roles I've been heavily involved in large scale technology projects. 
 
 # Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (September 2019 to December 2019)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, React
+- RSpec, Jasmine, Cypress.io, Jest
 
 #### Industry Certifications
 
