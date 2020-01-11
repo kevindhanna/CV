@@ -15,11 +15,11 @@
 
 # Background
 
-My love of technology began as an enthusiastic 6 year old watching my grandfather build computers for friends and family in his shed. I've been engrossed ever since; working in the IT industry for 10 years before deciding to change my life by moving to the other side of the planet to become a software developer.
+My love of technology began as an enthusiastic 6 year old watching my grandfather build computers for friends and family in his shed. I’ve built on this passion with 10 years of experience in the IT industry and training at the highly selective Makers Academy coding bootcamp.
 
-My career in IT started right after highschool helping teachers and kids at a couple of small town primary schools keep their technology in order. Over the next few years I moved into Infrastructure and System Administration, IT Managed Services and eventually IT Management for a mid size enterprise - a role that included strategy formulation, vendor management and project management.
+Working in IT systems and management I took every opportunity to automate repetitive tasks, such as scripts for user account creation and bulk updating user records. These minor forays into coding showed me how satisfying and exciting it is to build a thing and then see it actually work!
 
-I took any chance I could to automate repetitive tasks - usually with simple Windows cmd scripts, but eventually more complex Powershell scripts. At one business I managed to turn a 1 hour user creation process into a 5 second script that could create multiple users at once in multiple systems. This minor foray into coding showed me how satisfying and exciting it is to build a thing and then _see it actually work!_ Being a young professional looking to change my career, moving to London and attending Makers was an obvious choice.
+Having fully embraced Agile development and XP values like TDD, Pair Programming and CI/CD, I would love to bring my enery for problem solving and fast learning to an organisation where the work I do has a purpose.
 
 # Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
@@ -39,9 +39,13 @@ I've also found I actually _thoroughly enjoy_ problem solving and debugging beca
 
 In my past roles I've been heavily involved in large scale technology projects. Deploying new software to large user groups is something I've done quite a few times, so I have a honed skillset for developing build/test/deployment plans as well as dealing with unexpected issues and delays.
 
-- Upgraded 170 users from Windows 7 to Windows 10, deploying new front end hardware concurrently
-- Implemented new software solutions such as Backup, Print Management and Team Collaboration in environments with 200+ users
-- upgraded backend virtualisation and storage infrastructure for an environment with 50+ virtual servers
+#### Customer Focus  
+
+My background in user support has given me a strong drive to 'do right by the customer'. Timliness, communication and regular updates are my mantra when dealing with stakeholders, and I'm constantly thinking about how my actions will affect those who are using products I manage.
+  
+#### Task Management  
+  
+I've been using ticketing systems to keep track of work as I progress through it my whole life, which means I have a knack for documentation, issue tracking, problem management and keeping stakeholders in the loop.
 
 # Education
 
@@ -51,6 +55,10 @@ In my past roles I've been heavily involved in large scale technology projects. 
 - Agile/XP
 - Ruby, Rails, JavaScript, React
 - RSpec, Jasmine, Cypress.io, Jest
+- Git, Github    
+
+##### Behavioural Skills:
+– Agile, XP (extreme programming) values, MVP, Pair Programming, Mobbing, Growth mindset
 
 #### Industry Certifications
 
@@ -74,11 +82,10 @@ Support analyst
   - Firm Office Move - managed the move of Workstations, Servers, Storage, Network and Internet.
   - Migrate 1.5 million documents to a new Document Managment System
 - Oversee maintenance of IT Infrastructure, including software updates, backups and lifecycle
-- Manage external relationships with Vendors, stakeholders and service providers
 - work with C level and firm partnership to develop and implement IT strategy
 
 # Hobbies
 
-- I've played in bands since I was 17, so I love anything and everything music. This invloves recording and producing my bands music - I've spent many hours learning how to make audio sound good.  
+- I've played in bands since I was 17, so I love anything and everything music. This includes recording and producing my bands music - I've spent many hours learning how to make audio sound good.  
 - Snowboarding, when funds permit
 - I used to brew beer, but haven't found room to do it here in London so I've had to settle for trying every craft brew I can get my hands on.
